@@ -1,0 +1,3 @@
+#ifndef CF_quadrocopter_simulink_H__
+#define CF_quadrocopter_simulink_H__
+#endif
